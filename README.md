@@ -1,2 +1,2 @@
 # Project-1
-The adventures of finding ways to correct the errors with in the HTML and CSS coding to make sure that the website functions correctly.
+For this project you had to find the errors within the HTML and CSS coding for the Horiseon website page. This was really fun to do and it will make you dig into different things such as making sure everything is properly linked together, the layout is percise, the images loads up perfect and it does not have a lag to it, and making sure that the font family is one in the same and nothing different. If you like challenges to help expand your knowledge on how to layout a webpage and making sure all the links, images, and font is placed where it needs to be this is the project to work on.
